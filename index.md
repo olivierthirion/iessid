@@ -9,3 +9,5 @@ Vous trouverez ici les différents éléments utiles pour réaliser les travaux 
 - [Images à traiter](files/LI3.IndexationImages.2008.odt)
 
 ### PSC3
+
+- [Facsimilés à cataloguer](https://drive.google.com/drive/folders/1a03vAmN8dd6IgYU4kbpsnPrXNrKEAyOS?usp=sharing)
