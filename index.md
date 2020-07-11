@@ -1,6 +1,6 @@
 ## IESSID
 
-Vous trouverez ici les différents éléments utiles pour réaliser les travaux de fin d'année au 3e quadrimestre.
+Vous trouverez ici les différentes ressources utiles pour réaliser les travaux de fin d'année au 3e quadrimestre.
 
 *Olivier Thirion*
 
@@ -12,3 +12,4 @@ Vous trouverez ici les différents éléments utiles pour réaliser les travaux 
 
 - [Facsimilés à cataloguer](https://drive.google.com/drive/folders/1a03vAmN8dd6IgYU4kbpsnPrXNrKEAyOS?usp=sharing) (sur Google Drive)
 - [Notices à corriger](files/PSC3_GrilleErreurs_2006.txt) et [facsimilés correspondants](https://drive.google.com/drive/folders/132q-rrBSoh1i4PhZdyECbBiwB5Yj4SRO?usp=sharing)
+- L'échantillon de notice dont vous devez analyser la qualité vous a été envoyé par mail
