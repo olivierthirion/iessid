@@ -10,4 +10,5 @@ Vous trouverez ici les différents éléments utiles pour réaliser les travaux 
 
 ### PSC3
 
-- [Facsimilés à cataloguer](https://drive.google.com/drive/folders/1a03vAmN8dd6IgYU4kbpsnPrXNrKEAyOS?usp=sharing)
+- [Facsimilés à cataloguer](https://drive.google.com/drive/folders/1a03vAmN8dd6IgYU4kbpsnPrXNrKEAyOS?usp=sharing) (sur Google Drive)
+- [Notices à corriger](files/PSC3_GrilleErreurs_2006.txt) et [facsimilés correspondants](https://drive.google.com/drive/folders/132q-rrBSoh1i4PhZdyECbBiwB5Yj4SRO?usp=sharing)
