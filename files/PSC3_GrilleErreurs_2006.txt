@@ -1,0 +1,155 @@
+Notice 1
+001  2008-01
+010  $a9780415812085$bpbk
+073 0$a9780415812085$bpbk
+1010 $aeng
+102  $aUS$aGB
+2001 $aSound for digital video$bTexte imprimé$fTomlinson Holman$gand Arthur Baum
+205  $aSecond edition
+210  $aNew York$aLondon$cFocal press$dcop. 2013
+215  $a1 vol. (XIII, 358 p.)$cill., couv. ill. en coul.
+320  $aIndex p. 329-358
+330  $a"Achieve professional quality sound on a limited budget! Harness all new, Hollywood style audio techniques to bring your independent film and video productions to the next level. In Sound for Digital Video, Second Edition industry experts Tomlinson Holman and Arthur Baum give you the tools and knowledge to apply recent advances in audio capture, video recording, editing workflow, and mixing to your own film or video with stunning results. This fresh edition is chockfull of techniques, tricks, and workflow secrets that you can apply to your own projects from preproduction through postproduction." (site de l'éditeur)
+700 1$4070$aHolman$bTomlinson
+701 1$4070$aBaum$bArthur
+
+Notice 2
+001  2008-02
+010  $a2-226-14038-7$d6,5 EUR
+073 0$a2226140387$d6,5 EUR
+1011 $afre$cita
+102  $aFR
+2001 $aMon nom est Stilton, Geronimo Stilton$bTexte imprimé$fTexte de Geronimo Stilton$gillustrations de Larry Keys$gtraduction de Titi Plumederat
+210  $aParis$cAlbin Michel jeunesse$dDL 2004
+215  $a1 vol. (111 p.)$cill. en coul., couv. ill. en coul.
+2252 $aGeronimo Stilton$v[7]
+304  $aTraduction de : "Il mio nome è Stilton, Geronimo Stilton"
+330  $a"Débordé de travail et ne se fiant qu'à son intuition qu'il croit infaillible, Geronimo Stilton engage une nouvelle assistante sans lui faire passer le moindre entretien. Ses critères ? La jeunesse et l'audace pour qu'un vent joyeux souffle enfin sur les bureaux poussiéreux de l'Écho du rongeur ! Il choisit dans ce but une certaine Pinky Pick. Mais ce n'est qu'après avoir signé son contrat ainsi qu'un chèque de trois mois d'avance sur salaire, que Geronimo s'aperçoit, effrayé, que la nouvelle recrue dépasse trop largement ses espérances : c'est un vent de révolution qu'elle fait souffler sur la rédaction du journal. Elle parvient, en un rien de temps à transformer le très classique Geronimo, et l'envoie même passer le réveillon sur un iceberg, au pôle nord..." (site de l'éditeur)
+410 1$tGeronimo Stilton$v7
+700 1$4070$aStilton$bGeronimo
+702 1$4440$aKeys$bLarry
+702 1$4730$aPlumederat$bTiti
+
+Notice 3
+001  2008-03
+010  $a978-2-7081-3612-0
+073  $a9782708136120
+1010 $afre
+102  $aFR
+2001 $aDix questions auxquelles le prochain Président n'échappera pas$bTexte imprimé$fAlain Etchegoyen
+210  $aParis$cEyrolles$dDL 2006
+215  $a1 vol. (158 p.)
+330  $a"Durant le prochain quinquennat, plusieurs questions se poseront quoi qu'il arrive aux Français, et le prochain Président devra prendre les mesures pour y faire face.
+Alain Etchegoyen, fort de son expérience de conseil auprès de dirigeants politiques et économiques puis au Plan, relève dix questions significatives : l'homoparentalité, l'eugénisme, les OGM, le patriotisme économique, le SMIC, l'assurance-chômage, l'action publique dans les quartiers difficiles et l'école, le scrutin proportionnel, la construction européenne, l'intervention des forces armées.
+Dans chaque cas, il pose une question précise et en montre les enjeux réels. Il anticipe aussi sur les réponses dilatoires dont les Français n'ont pas besoin. Et il demande aux candidats de répondre.
+Avec ce livre original, à la fois didactique et neutre, les électeurs pourront évaluer les réponses données par les candidats et se faire une idée non seulement de leurs positions mais aussi de leur personnalité." (site de l'éditeur)
+700 1$4070$aEtchegoyen$bAlain
+
+Notice 4
+001  2008-04
+010  $a978-1-59327-192-3$d 39,95 USD
+073  $a9781593271923$d 39,95 USD
+1010 $aeng
+102  $aUS
+181 1$ai4
+182 1$an
+2001 $aGray hat python$epython programming for hackers and reverse engineers$fby Justin Seitz
+210  $aSan Francisco$cNo starch press$d© 2009
+215  $a1 vol. (XX, 189 p.)$cill., couv. ill. en coul.
+320  $aIndex p. 183-189
+330  $a"Python is fast becoming the programming language of choice for hackers, reverse engineers, and software testers because it's easy to write quickly, and it has the low-level support and libraries that make hackers happy. But until now, there has been no real manual on how to use Python for a variety of hacking tasks. You had to dig through forum posts and man pages, endlessly tweaking your own code to get everything working. Not anymore.
+Gray Hat Python explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools—and how to build your own when the pre-built ones won't cut it." (site de l'éditeur)
+700 1$4070$aSeitz$bJustin
+
+Notice 5
+001  2008-05
+010  $a978-2-37073-153-1
+073  $a$a9782370731531
+1010 $afre
+102  $aFR
+2001 $aHistoire de mes 12 ans$bTexte imprimé$fRiad Sattouf
+210  $aParis$bAllary éditions$dimpr. 2017
+215  $a1 vol. (54 p.)$cill. en coul., couv. ill. en coul.
+2251 $aImages$fdirigée par Guillaume Allary
+330  $a"Esther entre en sixième ! L’élection présidentielle, son premier téléphone portable, Manuela son hamster, l’arrivée de l’acné, son frère complotiste, son père mélenchoniste, sa mamy lepéniste, le président Macron l’Illuminati ou son amour pour la galette saucisson-abricot… Esther grandit, c’est l’année de ses 12 ans !" (site de l'éditeur)
+410 1$tImages$fdirigée par Guillaume Allary
+461 1$tLes cahiers d'Esther$v3
+700 1$4070$aSattouf$bRiad
+702 1$4651$aAllary$bGuillaume
+
+Notice 6
+001  2008-06
+010  $a2-7449-0124-5$d70 FRF
+073  $a2744901245$d70 FRF
+1010 $afre
+102  $aFR
+2001 $aLa cuisine du campeur-randonneur$bTexte imprimé$fMichel Winthorp
+210  $aAix-en-Provence$bÉdisud$dimpr. 2000
+215  $a1 vol. (82 p.)$cill., couv. ill. en coul.
+2252 $aClefs pour...
+320  $aBibliographie p. 81
+330  $a"Aider à se nourrir avec plaisir et intelligence au cours de randonnées de trekking ou lors de simples balades familiales.Les mécanismes de la digestion et de la nutrition, expliqués très simplement, aux ustensiles de cuisine les mieux adaptés, l'auteur signale tout les pièges à éviter et propose des recettes savoureuses et faciles à réaliser." (site de l'éditeur)
+410 1$tClefs pour...
+700 1$4070$aWinthorp$bMichel
+
+Notice 7
+001  2008-07
+010  $a978-1-492-04087-3$d44,99 USD
+073  $a9781492040873$d44,99 USD
+1010 $aeng
+102  $aUS
+2001 $aTechnology strategy patterns$bTexte imprimé$earchitecture as strategy$fEben Hewitt
+205  $a1st ed.
+210  $aSebastopol (California)$bO'Reilly$dcop. 2018
+215  $a1 vol. (XVIII, 281 p.)$cill. en coul., couv. ill. en coul.
+320  $aLectures recommandées p. 269-270. - Index p. 271-281
+330  $a"Technologists who want their ideas heard, understood, and funded are often told to speak the language of business—without really knowing what that is. This book’s toolkit provides architects, product managers, technology managers, and executives with a shared language—in the form of repeatable, practical patterns and templates—to produce great technology strategies. Author Eben Hewitt developed 39 patterns over the course of a decade in his work as CTO, CIO, and chief architect for several global tech companies. With these proven tools, you can define, create, elaborate, refine, and communicate your architecture goals, plans, and approach in a way that executives can readily understand, approve, and execute." (site de l'éditeur)
+700 1$4070$aHewitt$bEben
+
+Notice 8
+001  2008-08
+010  $a978-2-294-71312-5
+073  $a9782294713125
+1010 $afre
+102  $aFR
+2001 $aGestion du stress et de l'anxiété [Texte imprimé]$fDominique Servant
+205  $a3e éd.
+210  $aIssy-les Moulineaux$bElsevier Masson$dcop. 2012
+215  $a1 vol. (233 p.)$cill., couv. ill. en coul.
+2252 $aPratiques en psychothérapie$fConseiller éditorial : Dominique Servant
+320  $aBibliographie p. 217-227. Index p. 231-233
+330  $a"La gestion du stress et de l'anxiété est en plein essor dans le monde de la santé et de la psychologie, mais intéresse aussi le monde de l'entreprise et de l'éducation.
+Cet ouvrage, centré sur l'approche TCC particulièrement bien indiquée pour le stress et l'anxiété, rend compte des avancées importantes effectuées dans leur prise en charge (médicaments et psychothérapies).
+Cette troisième édition propose de nombreux nouveaux cas cliniques et outils pratiques de TCC pour prendre en charge les attaques de panique, le trouble panique et l'agoraphobie, les phobies spécifiques, les phobies sociales, l'anxiété généralisée et le trouble de l'adaptation avec anxiété.
+La gestion du stress est présentée de façon originale proposant de nouvelles méthodes d'évaluation et des techniques visant à mieux contrôler les émotions et agir sur les ruminations et les comportements. Un module de thérapie de groupe est détaillé en huit séances et s'avère très utile pour guider le patient et l'aider dans sa pratique personnelle.
+Un ouvrage indispensable pour tous les thérapeutes confrontés aux patients stressés et anxieux mais aussi pour tous les intervenants de la prévention et de l'accompagnement psychologique." (site de l'éditeur)
+410 1$tPratiques en psychothérapie$fConseiller éditorial : Dominique Servant
+700 1$4070$aServant$bDominique
+702 1$4651$aServant$bDominique
+
+Notice 9
+001  2008-09
+010  $a978-0-313-33894-6
+011 $a1558-7592
+073  $a9780313338946
+1010 $aeng
+102  $aUS$aGB
+2001 $aSports medicine$bTexte imprimé$fJennifer L. Minigh
+210  $aWestport (Connecticut)$aLondon$bGreenwood press$dcop. 2007
+215  $a1 vol. (XIII, 251 p.)$cill., couv. ill. en coul.
+2252 $aHealth & medical issues today
+320  $aGlossaire p. 241-242. Lecture complémentaires p. 243-247. Index p. 249-251
+410 1$tHealth & medical issues today
+700 1$4070$aMinigh$bJennifer L.
+
+Notice 10
+001  2008-10
+010  $a1-56138-225-6
+073  $a1561382256
+1010 $aeng
+102  $aUS
+2001 $aKnots$bTexte imprimé$emore than 50 of the most useful knots for camping, sailing, fishing and climbing$fPeter Owen
+210  $aPhiladelphia$bCourage books$dcop. 1993
+215  $a1 vol. (80 p.)$cill. en coul., couv. ill. en coul.
+320  $aGlossaire p. 79-80
+700 1$4070$aOwen$bPeter
