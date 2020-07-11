@@ -2,9 +2,8 @@
 
 Vous trouverez ici les différents éléments utiles pour réaliser les travaux de fin d'année au 3e quadrimestre.
 
-### LI3
+### Langages d'indexation 3
 
-- Bulleted
-- List
+- [Images à traiter](files/LI3.IndexationImages.2008.odt)
 
 ### PSC3
