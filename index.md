@@ -4,7 +4,7 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 *Olivier Thirion*
 
-### Langages d'indexation 3
+### LI3
 
 - [Images à traiter](files/LI3.IndexationImages.2008.odt)
 
@@ -13,3 +13,7 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 - [Facsimilés à cataloguer](https://drive.google.com/drive/folders/1a03vAmN8dd6IgYU4kbpsnPrXNrKEAyOS?usp=sharing) (sur Google Drive)
 - [Notices à corriger](files/PSC3_GrilleErreurs_2006.txt) et [facsimilés correspondants](https://drive.google.com/drive/folders/132q-rrBSoh1i4PhZdyECbBiwB5Yj4SRO?usp=sharing)
 - L'échantillon de notice dont vous devez analyser la qualité vous a été envoyé par mail
+
+### TP2
+
+- Facsimilés à venir
