@@ -18,7 +18,6 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 * [ISBD zone 6](http://olivierthirion.be/files/igc/6.pdf)
 * [ISBD zone 7](http://olivierthirion.be/files/igc/7.pdf)
 * [ISBD zone 8](http://olivierthirion.be/files/igc/8.pdf)
-* [ISBD zone 8](http://olivierthirion.be/files/igc/8.pdf)
 * [Analyse documentaire](http://olivierthirion.be/files/igc/analyse.pdf)
 * [Indexation](http://olivierthirion.be/files/igc/indexation.pdf)
 * [Blanc-Montmayeur](http://olivierthirion.be/files/igc/bmm.pdf)
