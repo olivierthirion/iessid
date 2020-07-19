@@ -27,7 +27,7 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 ### Outils bureautiques
 
 * [Traitement de texte](http://olivierthirion.be/files/ob/tt.pdf)
-** [...et screencasts sur Youtube](https://www.youtube.com/watch?v=QuV3g6P1wUI&list=PLqWR_np7HyhI91IYLaYyxuTOjj4uRVUVI)
+  * [...et screencasts sur Youtube](https://www.youtube.com/watch?v=QuV3g6P1wUI&list=PLqWR_np7HyhI91IYLaYyxuTOjj4uRVUVI)
 * [LaTeX 1](http://olivierthirion.be/files/ob/latex1.pdf)
 * [LaTeX 2 : structure du document et table des matières](http://olivierthirion.be/files/ob/latex2.pdf)
 * [LaTeX 6 : bibliographie & co.](http://olivierthirion.be/files/ob/latex6.pdf)
