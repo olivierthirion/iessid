@@ -34,6 +34,18 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 ## Bloc 2
 
+### Archivistique
+
+* [Introduction](http://olivierthirion.be/files/archi/0.pdf)
+* [Chapitre 1](http://olivierthirion.be/files/archi/1.pdf)
+* [Chapitre 2](http://olivierthirion.be/files/archi/2.pdf)
+* [Chapitre 3](http://olivierthirion.be/files/archi/3.pdf)
+* [Chapitre 4](http://olivierthirion.be/files/archi/4.pdf)
+* [Chapitre 5](http://olivierthirion.be/files/archi/5.pdf)
+* [Chapitre 6](http://olivierthirion.be/files/archi/6.pdf)
+* [Chapitre 7](http://olivierthirion.be/files/archi/7.pdf)
+* [Bibliographie du cours](http://olivierthirion.be/files/archi/b.pdf)
+
 ### Travaux pratiques 2
 
 *Facsimilés à venir*
