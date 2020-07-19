@@ -1,14 +1,45 @@
-## IESSID
+# IESSID
 
 Vous trouverez ici les différentes ressources utiles pour réaliser les travaux de fin d'année au 3e quadrimestre.
 
 *Olivier Thirion*
 
-### LI3
+
+## Bloc 1
+
+### Introduction à la gestion des catalogues
+
+* [Séance 1](http://olivierthirion.be/files/igc/s1.pdf)
+* [Séance 2](http://olivierthirion.be/files/igc/s2.pdf)
+* [ISBD zone 1](http://olivierthirion.be/files/igc/1.pdf)
+* [ISBD zone 2](http://olivierthirion.be/files/igc/2.pdf)
+* [ISBD zone 4](http://olivierthirion.be/files/igc/4.pdf)
+* [ISBD zone 5](http://olivierthirion.be/files/igc/5.pdf)
+* [ISBD zone 6](http://olivierthirion.be/files/igc/6.pdf)
+* [ISBD zone 7](http://olivierthirion.be/files/igc/7.pdf)
+* [ISBD zone 8](http://olivierthirion.be/files/igc/8.pdf)
+* [ISBD zone 8](http://olivierthirion.be/files/igc/8.pdf)
+* [Analyse documentaire](http://olivierthirion.be/files/igc/analyse.pdf)
+* [Indexation](http://olivierthirion.be/files/igc/indexation.pdf)
+* [Blanc-Montmayeur](http://olivierthirion.be/files/igc/bmm.pdf)
+* [Classification décimale universelle](http://olivierthirion.be/files/igc/cdu.pdf)
+* [Rangement](http://olivierthirion.be/files/igc/rangement.pdf)
+
+
+## Bloc 2
+
+### Travaux pratiques 2
+
+*Facsimilés à venir*
+
+
+## Bloc 3
+
+### Langages d'indexation 3
 
 [Images à traiter](files/LI3.IndexationImages.2008.odt)
 
-### PSC3
+### Problèmes spécifiques de catalogage 3
 
 Facsimilés à cataloguer :
 1. [Fichier](http://olivierthirion.be/files/psc3/01.pdf)
@@ -35,7 +66,3 @@ Facsimilés à cataloguer :
 10. [Fichier](http://olivierthirion.be/files/erreurs/10.pdf)
 
 L'échantillon de notice dont vous devez analyser la qualité vous a été envoyé par mail
-
-### TP2
-
-*Facsimilés à venir*
