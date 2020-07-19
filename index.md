@@ -100,3 +100,7 @@ Facsimilés à cataloguer :
 10. [Fichier](http://olivierthirion.be/files/erreurs/10.pdf)
 
 L'échantillon de notice dont vous devez analyser la qualité vous a été envoyé par mail
+
+### Travail de fin d'études
+
+[Consignes et directives rédactionnelles](http://olivierthirion.be/files/tfe/consignes.pdf)
