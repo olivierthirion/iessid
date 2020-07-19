@@ -46,6 +46,15 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 * [Chapitre 7](http://olivierthirion.be/files/archi/7.pdf)
 * [Bibliographie du cours](http://olivierthirion.be/files/archi/b.pdf)
 
+### Langages d'indexation 2 - partie pratique
+
+* [Introduction](http://olivierthirion.be/files/li2/0.pdf)
+* [Chapitre 1](http://olivierthirion.be/files/li2/1.pdf)
+* [Chapitre 2](http://olivierthirion.be/files/li2/2.pdf)
+* [Chapitre 3](http://olivierthirion.be/files/li2/3.pdf)
+* [Chapitre 4](http://olivierthirion.be/files/li2/4.pdf)
+* [Chapitre 5](http://olivierthirion.be/files/li2/5.pdf)
+
 ### Travaux pratiques 2
 
 *Facsimilés à venir*
