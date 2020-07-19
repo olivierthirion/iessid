@@ -104,3 +104,4 @@ L'échantillon de notice dont vous devez analyser la qualité vous a été envoy
 ### Travail de fin d'études
 
 [Consignes et directives rédactionnelles](http://olivierthirion.be/files/tfe/consignes.pdf)
+[Grille d'évaluation des membres du jury (écrit)](http://olivierthirion.be/files/tfe/jury_ecrit.pdf)
