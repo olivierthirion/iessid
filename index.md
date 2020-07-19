@@ -55,6 +55,14 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 * [Chapitre 4](http://olivierthirion.be/files/li2/4.pdf)
 * [Chapitre 5](http://olivierthirion.be/files/li2/5.pdf)
 
+### Problèmes spécifiques de catalogage 2
+
+* [Introduction](http://olivierthirion.be/files/psc2/intro.pdf)
+* [Multivolumes](http://olivierthirion.be/files/psc2/multi.pdf)
+* [Ressources continues](http://olivierthirion.be/files/psc2/rc.pdf)
+* [Parties composantes](http://olivierthirion.be/files/psc2/pc.pdf)
+* [Enregistrements sonores](http://olivierthirion.be/files/psc2/son.pdf)
+
 ### Travaux pratiques 2
 
 *Facsimilés à venir*
