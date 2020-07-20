@@ -65,7 +65,25 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 ### Travaux pratiques 2
 
-*Facsimilés à venir*
+*En cours et incomplet. La liste initiale étant publiée sur Moodle, je n'y ai pas accès pour l'instant. Si l'un de vous a recopié la liste complète, il peut me l'envoyer à othirion@he2b.be. De même pour les facsimilés pas encore publiés...*
+
+* [Architecture religieuse](http://olivierthirion.be/files/tp2/architecture_religieuse.pdf)
+* [Art de la cuisine française](http://olivierthirion.be/files/tp2/art_cuisine_francaise.pdf)
+* [Choix de l'archiviste](http://olivierthirion.be/files/tp2/choix_archiviste.pdf)
+* [Etude de faisabilité d'une banque de données](http://olivierthirion.be/files/tp2/etude_faisabilite.pdf)
+* [Femme dans la Grèce antique](http://olivierthirion.be/files/tp2/femme_grece_antique.pdf)
+* [Fleurs du bien (CD)](http://olivierthirion.be/files/tp2/fleurs_bien.pdf)
+* [Guide pratique de l'enfant surdoué](http://olivierthirion.be/files/tp2/guide_pratique_enfant_surdoue.pdf)
+* [Harcèlement moral dans la vie professionnelle](http://olivierthirion.be/files/tp2/harcelement_moral.pdf)
+* [If (CD)](http://olivierthirion.be/files/tp2/if.pdf)
+* [Introduction à la phonétique corrective](http://olivierthirion.be/files/tp2/introduction_phonetique_corrective.pdf)
+* [Lexique des termes de presse](http://olivierthirion.be/files/tp2/lexique_termes_presse.pdf)
+* [Maîtres de la stratégie](http://olivierthirion.be/files/tp2/maitres_strategie.pdf)
+* [Obs hors série (article) (manque l'article)](http://olivierthirion.be/files/tp2/ob_hors_serie.pdf)
+* [Ordinateur individuel (article) (manque l'article)](http://olivierthirion.be/files/tp2/ordinateur_individuel.pdf)
+* [Pratique du montage](http://olivierthirion.be/files/tp2/pratique_montage.pdf)
+* [Sécurité des festivités](http://olivierthirion.be/files/tp2/securite_festivites.pdf)
+* [Tricot et crochet : homme et enfant](http://olivierthirion.be/files/tp2/tricot_crochet_homme_enfant.pdf)
 
 ## Bloc 3
 
