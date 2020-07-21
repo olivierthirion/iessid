@@ -100,7 +100,7 @@ Facsimilés à cataloguer :
 1. [Fichier](http://olivierthirion.be/files/psc3/01.pdf)
 2. [Fichier](http://olivierthirion.be/files/psc3/02.pdf)
 3. [Fichier](http://olivierthirion.be/files/psc3/03.pdf)
-4. [Fichier](http://olivierthirion.be/files/psc3/03.pdf)
+4. [Fichier](http://olivierthirion.be/files/psc3/04.pdf)
 5. [Fichier](http://olivierthirion.be/files/psc3/05.pdf)
 6. [Fichier](http://olivierthirion.be/files/psc3/06.pdf)
 7. [Fichier](http://olivierthirion.be/files/psc3/07.pdf)
