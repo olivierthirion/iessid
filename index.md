@@ -92,7 +92,8 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 ### Langages d'indexation 3
 
-[Images à traiter](files/LI3.IndexationImages.2008.odt)
+* [Images à traiter si vous déposez une 2e fois le projet (nouvelles images)](files/LI3.IndexationImages.2008.odt)
+* [Images à traiter si vous n'avez encore jamais déposé le projet (images de la session de juin)](files/LI3.IndexationImages.2006.odt)
 
 ### Problèmes spécifiques de catalogage 3
 
