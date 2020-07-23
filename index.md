@@ -82,13 +82,13 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 * [Introduction à la phonétique corrective](http://olivierthirion.be/files/tp2/introduction_phonetique_corrective.pdf)
 * [Lexique des termes de presse](http://olivierthirion.be/files/tp2/lexique_termes_presse.pdf)
 * [Maîtres de la stratégie](http://olivierthirion.be/files/tp2/maitres_strategie.pdf)
-* [Obs hors série (article) (manque l'article)](http://olivierthirion.be/files/tp2/ob_hors_serie.pdf)
-* [Ordinateur individuel (article) (manque l'article)](http://olivierthirion.be/files/tp2/ordinateur_individuel.pdf)
+* [Nass Belgica (en ligne)](http://http://nass.ulb.ac.be/)
+* [Obs hors série (article : "L'homme qui  aimait les femmes"))](http://olivierthirion.be/files/tp2/ob_hors_serie.pdf)
+* [Ordinateur individuel (article : "Commerce électronique")](http://olivierthirion.be/files/tp2/ordinateur_individuel.pdf)
+* [Pauvres de nous](http://www.pauvresdenous.arch.be)
 * [Pratique du montage](http://olivierthirion.be/files/tp2/pratique_montage.pdf)
 * [Sécurité des festivités](http://olivierthirion.be/files/tp2/securite_festivites.pdf)
 * [Tricot et crochet : homme et enfant](http://olivierthirion.be/files/tp2/tricot_crochet_homme_enfant.pdf)
-* Document 18
-* Document 19
 * Document 20
 
 ## Bloc 3
