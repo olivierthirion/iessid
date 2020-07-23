@@ -4,6 +4,9 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 *Olivier Thirion*
 
+## Pour tous
+
+* [Consignes pour la réalisation de citations et de la bibliographie à l'IESSID](files/citations_biblio.docx)
 
 ## Bloc 1
 
