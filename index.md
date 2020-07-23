@@ -68,7 +68,7 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 ### Travaux pratiques 2
 
-*En cours et incomplet. La liste initiale étant publiée sur Moodle, je n'y ai pas accès pour l'instant. Si l'un de vous a recopié la liste complète, il peut me l'envoyer à othirion@he2b.be. De même pour les facsimilés pas encore publiés...*
+*Liste complète :*
 
 * [Architecture religieuse](http://olivierthirion.be/files/tp2/architecture_religieuse.pdf)
 * [Art de la cuisine française](http://olivierthirion.be/files/tp2/art_cuisine_francaise.pdf)
