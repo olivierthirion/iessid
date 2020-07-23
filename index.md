@@ -89,7 +89,7 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 * [Pratique du montage](http://olivierthirion.be/files/tp2/pratique_montage.pdf)
 * [Sécurité des festivités](http://olivierthirion.be/files/tp2/securite_festivites.pdf)
 * [Tricot et crochet : homme et enfant](http://olivierthirion.be/files/tp2/tricot_crochet_homme_enfant.pdf)
-* Document 20
+* [Villes et citadins](http://olivierthirion.be/files/tp2/villes_citadins.pdf)
 
 ## Bloc 3
 
