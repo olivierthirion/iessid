@@ -68,7 +68,10 @@ Vous trouverez ici les différentes ressources utiles pour réaliser les travaux
 
 ### Travaux pratiques 2
 
-*Liste complète :*
+* [Sauvegarder sa base de données sur le serveur de l'IESSID](https://www.youtube.com/watch?v=s4D-OWfz-Sk)
+* [Sauvegarder rapidement sa base de données sur son ordinateur personnel (PMB installé via XAMPP)](https://www.youtube.com/watch?v=5KvQugPvEIs)
+
+*Liste complète des imposés :*
 
 * [Architecture religieuse](http://olivierthirion.be/files/tp2/architecture_religieuse.pdf)
 * [Art de la cuisine française](http://olivierthirion.be/files/tp2/art_cuisine_francaise.pdf)
